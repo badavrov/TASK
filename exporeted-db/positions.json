@@ -1,0 +1,17 @@
+{ 
+    "_id" : ObjectId("5b2b8b7610614914dcebe9b0"), 
+    "title" : "Janitor", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b2b8bae4f89e71f4c9efa24"), 
+    "deleted" : false, 
+    "title" : "Drone", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b2b8bdf4f89e71f4c9efa25"), 
+    "deleted" : false, 
+    "title" : "Coffee guy", 
+    "__v" : NumberInt(0)
+}

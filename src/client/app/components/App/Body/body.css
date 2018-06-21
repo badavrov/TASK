@@ -1,0 +1,12 @@
+.div_team{
+    background-color: #323D4F;
+    width: 100%;
+}
+.text_team{
+    font-size: 42px;
+    color: #C8CEC2;
+    margin: 40px 80px 80px 20px;
+    width: 300px;
+    border-bottom: 3px solid;
+    float: left;
+}

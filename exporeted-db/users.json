@@ -1,0 +1,56 @@
+{ 
+    "_id" : ObjectId("5b266eb7a817eb1c4c3fbe92"), 
+    "deleted" : false, 
+    "name" : "Don Bass", 
+    "picture" : "/don.jpg", 
+    "big" : false, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b2690c8d8d9d208a09e5e85"), 
+    "deleted" : true, 
+    "name" : "Hello", 
+    "picture" : "picture.png", 
+    "big" : true, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b28bddf7d09f30b9cc713a2"), 
+    "deleted" : false, 
+    "name" : "Hugo Fisher", 
+    "picture" : "/hugo.jpg", 
+    "big" : true, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b2a9916cc59ab134ccede12"), 
+    "deleted" : false, 
+    "name" : "Guy Biggs", 
+    "picture" : "/guy.jpg", 
+    "big" : true, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b2b849f24c5302a401c3018"), 
+    "deleted" : false, 
+    "name" : "Nate Porter", 
+    "picture" : "/nate.jpg", 
+    "big" : false, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b2b84b424c5302a401c3019"), 
+    "deleted" : false, 
+    "name" : "Sam Shmuck", 
+    "picture" : "/sam.jpg", 
+    "big" : false, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5b2b84c924c5302a401c301a"), 
+    "deleted" : false, 
+    "name" : "John Doe", 
+    "picture" : "/john.jpg", 
+    "big" : false, 
+    "__v" : NumberInt(0)
+}

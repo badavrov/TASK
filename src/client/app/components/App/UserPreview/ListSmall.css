@@ -1,0 +1,22 @@
+.small_name{
+    color:#323D4F;
+    text-align: center;
+}
+.small_pic{
+    border-radius: 50%;
+    width:50px;
+    height:50px;
+    border: 0px;
+}
+.z01{
+    width:100%;
+    padding:20px;
+}
+.z01 tbody{
+    margin: 5px 10px;
+    display: inline-block;
+    width:40%;
+    background: #C8CEC2;
+    border:none;
+    border-radius: 30px;
+}

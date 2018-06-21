@@ -1,0 +1,31 @@
+body{
+    background-color:#C8CEC2;
+    margin: 0px;
+}
+header{
+    background-color:#C8CEC2;
+}
+html{ 
+    overflow-x:hidden; 
+}
+.acme{
+    color: #A02534;
+    font-size: 60px;
+    float:left;
+    margin:40px 20px;
+    border-bottom: 3px solid;
+    border-color: black;
+    width: 60%
+}
+.globe_div{
+    margin: 40px 0px;
+    width: 30%;
+    float: right;
+  }
+.text_div{
+    font-size: 14px;
+    margin: 0px 20px;
+    float:left;
+    width:60%
+
+}

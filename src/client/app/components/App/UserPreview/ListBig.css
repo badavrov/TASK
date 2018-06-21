@@ -1,0 +1,18 @@
+.big_name{
+    color:#C8CEC2;
+    text-align: center;
+}
+.big_pic{
+    border-radius: 30%;
+    width:197px;
+    height:197px;
+    border: 0px;
+}
+.t01{
+    width:50%
+}
+.t01 tbody{
+    margin: 20px 0px;
+    display: inline-block;
+    width:50%
+}

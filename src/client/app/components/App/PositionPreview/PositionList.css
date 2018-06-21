@@ -1,0 +1,10 @@
+ul li {
+    list-style-type: none;
+}
+ div ul{
+    margin:0px;
+}
+.p_title{
+    color:#323D4F;
+    font-size:24px;
+}
